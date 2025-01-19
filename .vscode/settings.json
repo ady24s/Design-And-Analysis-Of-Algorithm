@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "QuickImproved.C": "cpp",
+        "Quicksort.C": "cpp",
+        "Merge.C": "cpp",
+        "task.C": "cpp",
+        "dikjistra.C": "cpp",
+        "dijistraextraprob.C": "cpp",
+        "prims.C": "cpp",
+        "krushkal.C": "cpp",
+        "krusklaimprov.C": "cpp",
+        "1Knapsack.C": "cpp",
+        "knapsack01.C": "cpp"
+    }
+}

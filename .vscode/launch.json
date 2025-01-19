@@ -1,0 +1,97 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "NQueens",
+            "request": "launch",
+            "mainClass": "NQueens",
+            "projectName": "DAA_7e9b5222"
+        },
+        {
+            "type": "java",
+            "name": "knapsac",
+            "request": "launch",
+            "mainClass": "knapsac",
+            "projectName": "DAA_7e9b5222"
+        },
+        {
+            "type": "java",
+            "name": "kanpscenario",
+            "request": "launch",
+            "mainClass": "kanpscenario",
+            "projectName": "DAA_7e9b5222"
+        },
+        {
+            "type": "java",
+            "name": "OptimalMergeimplement",
+            "request": "launch",
+            "mainClass": "OptimalMergeimplement",
+            "projectName": "DAA_7e9b5222"
+        },
+        {
+            "type": "java",
+            "name": "OptimalMergePattern",
+            "request": "launch",
+            "mainClass": "OptimalMergePattern",
+            "projectName": "DAA_7e9b5222"
+        },
+        {
+            "type": "java",
+            "name": "Floyd_Traffic",
+            "request": "launch",
+            "mainClass": "Floyd_Traffic",
+            "projectName": "DAA_7e9b5222"
+        },
+        {
+            "type": "java",
+            "name": "FloydWarshall",
+            "request": "launch",
+            "mainClass": "FloydWarshall",
+            "projectName": "DAA_7e9b5222"
+        },
+        {
+            "type": "java",
+            "name": "Dikstrajava",
+            "request": "launch",
+            "mainClass": "Dikstrajava",
+            "projectName": "DAA_7e9b5222"
+        },
+        {
+            "type": "java",
+            "name": "Mergejava",
+            "request": "launch",
+            "mainClass": "Mergejava",
+            "projectName": "DAA_7e9b5222"
+        },
+        {
+            "type": "java",
+            "name": "knapsackfull",
+            "request": "launch",
+            "mainClass": "knapsackfull",
+            "projectName": "DAA_7e9b5222"
+        },
+        {
+            "name": "C++ Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/Desktop/DAA/Merge",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/Desktop/DAA",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "build",
+            "miDebuggerPath": "/usr/bin/gdb",
+            "internalConsoleOptions": "openOnSessionStart"
+        }
+    ]
+}
